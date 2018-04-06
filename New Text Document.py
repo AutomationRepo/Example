@@ -1,4 +1,4 @@
-def changeList( mylist ):
+def changeList1( mylist ):
     mylist.append([1, 2, 3, 4])
     print("Values inside function:", mylist)
 
